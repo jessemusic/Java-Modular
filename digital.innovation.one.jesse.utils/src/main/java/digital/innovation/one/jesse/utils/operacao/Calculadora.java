@@ -1,9 +1,9 @@
-package digital.innovation.one.jesse.operacao;
+package digital.innovation.one.jesse.utils.operacao;
 
-import digital.innovation.one.jesse.operacao.interno.DivHelper;
-import digital.innovation.one.jesse.operacao.interno.MultHelper;
-import digital.innovation.one.jesse.operacao.interno.SubHelper;
-import digital.innovation.one.jesse.operacao.interno.SumHelper;
+import digital.innovation.one.jesse.utils.operacao.interno.DivHelper;
+import digital.innovation.one.jesse.utils.operacao.interno.MultHelper;
+import digital.innovation.one.jesse.utils.operacao.interno.SubHelper;
+import digital.innovation.one.jesse.utils.operacao.interno.SumHelper;
 
 public class Calculadora {
 

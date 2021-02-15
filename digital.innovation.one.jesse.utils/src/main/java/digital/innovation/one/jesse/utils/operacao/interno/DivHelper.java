@@ -1,6 +1,4 @@
-package digital.innovation.one.jesse.operacao.interno;
-
-import digital.innovation.one.jesse.operacao.Operacao;
+package digital.innovation.one.jesse.utils.operacao.interno;
 
 public class DivHelper implements Operacao {
     @Override

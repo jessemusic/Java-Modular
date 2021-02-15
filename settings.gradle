@@ -1,3 +1,4 @@
 rootProject.name = 'Java-modular'
 include 'digital.innovation.one.jesse.core'
+include 'digital.innovation.one.jesse.utils'
 

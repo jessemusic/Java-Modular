@@ -1,6 +1,6 @@
 package digital.innovation.one.jesse;
 
-import digital.innovation.one.jesse.operacao.Calculadora;
+import digital.innovation.one.jesse.utils.operacao.Calculadora;
 
 public class Main {
     public static void main(String[] args) {
